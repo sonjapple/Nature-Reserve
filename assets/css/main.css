@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Lato:300,700");
+@import url("https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&display=swap");
 
 /*
 	Drift by Pixelarity
@@ -99,7 +99,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #646464;
-		font-family: "Lato", Helvetica, sans-serif;
+		font-family: 'Philosopher', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -2903,7 +2903,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: scroll,						fixed;
 		background-color: #494d53;
-		background-image: url("images/overlay.jpg"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.jpg"), url("../../images/banner03.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						no-repeat;
 		background-size: auto,						cover;
